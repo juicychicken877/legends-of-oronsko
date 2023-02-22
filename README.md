@@ -12,7 +12,15 @@
   
   <kbd>SPACE</kbd> - attack
   
+  <kbd>E</kbd> - heal (green cooldown)
+  
   <kbd>Q</kbd> - change weapon
+  
+  <kbd>1</kbd> - upgrade hp
+  
+  <kbd>2</kbd> - upgrade attack
+  
+  <kbd>3</kbd> - upgrade heal power
   
 # Ninja Adventure Asset Pack
   
