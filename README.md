@@ -1,7 +1,8 @@
-# Legends Of Orońsko
-2D RPG game made in pygame with Ninja Adventure layout using Tiled editor
+## Legends Of Orońsko
 
-# How to Play
+Embark on an epic journey through lush green biomes and treacherous deserts in this thrilling tiled RPG adventure. Prepare to battle formidable foes and upgrade your skills to become the ultimate warrior!
+
+### How to Play
   <kbd>W</kbd> - move up
   
   <kbd>S</kbd> - move down
@@ -22,7 +23,9 @@
   
   <kbd>3</kbd> - upgrade heal power
   
-# Ninja Adventure Asset Pack
+### Ninja Adventure Asset Pack
   
   [Ninja Adventure](https://pixel-boy.itch.io/ninja-adventure-asset-pack)
-  
+
+### Tiled Editor
+  [Tiled Editor](https://www.mapeditor.org/)
